@@ -27,3 +27,9 @@ $ export GOROOT=only set it if the golang is not install in the default location
 
     Expected result: {"ID":1,"FirstName":"Antonel","LastName":"Pazargic"}
 
+#### Git stuff
+
+1. For changing the message of the last commit
+
+    $ git commit --amend
+
