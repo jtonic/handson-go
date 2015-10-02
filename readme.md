@@ -33,3 +33,12 @@ $ export GOROOT=only set it if the golang is not install in the default location
 
     $ git commit --amend
 
+#### IntelliJ Idea stuff
+
+1. Start the intelliJ with the following script commands
+
+    export GOPATH=$PATH_TO_PROJECT_ROOT
+
+    PATH_TO_IDEA/bin/idea.sh
+
+
